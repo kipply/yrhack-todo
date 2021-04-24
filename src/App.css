@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+
+html {
+  color:  red;
+  background-color:  pink;
+  font-size:  2em;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
